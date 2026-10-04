@@ -1,0 +1,73 @@
+heading: Frequently asked *questions*
+# DRAFT FAQs, adapted from common studio questions. Please review every answer.
+# Items in [brackets] need the studio's confirmation.
+===
+category: Why Pilates
+q: What is Pilates?
+---
+Pilates is a method of exercise built on control, precision and breath. It strengthens the deep core muscles (the "powerhouse") that support every movement, while improving posture, mobility and body awareness.
+===
+category: Why Pilates
+q: Is Pilates suitable for everyone?
+---
+Yes. All of our classes are suitable for all abilities, with modifications and props provided throughout. Your instructor will help you work within your own range of movement.
+===
+category: Why Pilates
+q: Can I do Pilates if I have an injury, a medical condition or I'm pregnant?
+---
+Often, yes, but please check with your doctor or physiotherapist first, and always tell your instructor before class so they can offer suitable modifications.
+===
+category: Classes
+q: Which class should I start with?
+---
+If you're new to Pilates, Forge Pilates (mat) is a great foundation. Forge Reformer is suitable for all abilities too. If you're after recovery and mobility, try Forge Restore or Forge Reset. See our First Timer page for a full guide.
+===
+category: Classes
+q: How big are the classes?
+---
+Reformer classes are kept to a maximum of five people, so your instructor can give you real attention. [Studio to confirm mat and recovery class sizes.]
+===
+category: Classes
+q: Do I need prior experience?
+---
+Not at all. Every class is suitable for beginners, and exercises are layered progressively so you can build at your own pace.
+===
+category: Classes
+q: What is the infrared studio?
+---
+Forge Reset takes place in our infrared-heated studio. The gentle warmth helps the body soften and release during long, mindful holds. Bring water and light clothing.
+===
+category: Bookings
+q: How do I book a class?
+---
+Head to our Class Schedule page and book directly through Momence. You can filter the timetable by instructor.
+===
+category: Bookings
+q: What is your cancellation policy?
+---
+[Studio to confirm: cancellation window, e.g. "Cancel at least 12 hours before class to receive your credit back."]
+===
+category: Bookings
+q: Do you offer a trial class or intro offer?
+---
+[Studio to confirm intro offer details.]
+===
+category: Prepare for your class
+q: What should I wear?
+---
+Comfortable, fitted clothing you can move and stretch in. Loose tops can catch on Reformer springs.
+===
+category: Prepare for your class
+q: Do I need grip socks?
+---
+Grip socks are required for Forge Reformer and Forge Contrast for hygiene reasons, and non-slip gloves are also required for Forge Contrast. [Studio to confirm whether grip socks are available to buy at the studio.]
+===
+category: Prepare for your class
+q: How early should I arrive?
+---
+Please arrive around 10 minutes before your first class so you can settle in and talk to your instructor about any injuries or concerns.
+===
+category: Prepare for your class
+q: Are there showers or changing facilities?
+---
+[Studio to confirm changing / shower facilities.]

@@ -1,0 +1,20 @@
+order: 4
+title: Forge Restore
+type: Yoga + Pilates
+tagline: A slower blend of yoga and Pilates to release and rebalance.
+level: All levels
+image: /images/classes/restore.jpg
+alt: A client in a restorative stretch
+---
+A restorative blend of yoga asanas and Pilates repertoire designed to create space in both body and mind.
+
+Yoga-inspired movement encourages the body to explore and access its natural range of motion, while Pilates principles bring focus to core connection, stability and mindful control. Modified breathing techniques are woven throughout the class to encourage a deeper sense of relaxation and awareness.
+
+Expect a slower, more nurturing experience that helps release tension, open the body and restore balance, leaving you feeling grounded, refreshed and finely tuned.
+
+Suitable for all levels.
+
+## What to bring
+- Comfortable clothing you can stretch in
+- Grip socks (optional)
+- A water bottle

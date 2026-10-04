@@ -1,0 +1,18 @@
+heading: Our Story
+image1: /images/studio/story-1.jpg
+alt1: A client stretching on the Reformer
+image2: /images/studio/story-2.jpg
+alt2: Reformer straps in use
+image3: /images/studio/story-3.jpg
+alt3: A standing balance against the studio wall
+---
+[Placeholder: how Forge Movement began. Who founded it, and why Digbeth?]
+
+[Placeholder: what Forge stands for. Intention behind every exercise, breath, strength and recovery as part of the same process.]
+
+[Placeholder: the community you're building, and who the studio is for.]
+
+## Stay *motivated* together
+- Intention | Every movement has a purpose. We teach the how *and* the why.
+- Strength & recovery | Effort and rest are part of the same process, from Reformer to infrared Reset.
+- Every body welcome | Small groups, modifications and props so you can move within your own range.

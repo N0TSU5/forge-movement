@@ -1,0 +1,26 @@
+title: Welcoming & Certified Instructors
+image: /images/home/feature-instructors.jpg
+focus: 50% 80%
+alt: A client balancing on a Pilates ball in grip socks
+---
+Our instructors are friendly, passionate, and certified in teaching Pilates, Barre, and Yoga that will help you enjoy your fitness journey.
+===
+title: Fully-Equipped Studio
+image: /images/home/feature-studio.jpg
+focus: 50% 15%
+alt: Two clients stretching side by side
+---
+Our studio is equipped with Reformers and a variety of Pilates props and tools, to help guide you from one movement to the next.
+===
+title: Recovery Sessions
+image: /images/home/feature-recovery.jpg
+focus: 50% 40%
+alt: A client resting on a Reformer between sets
+---
+We believe that recovery is a crucial step in movement. Join *Forge Reset* to slow down and restore.
+===
+title: Infrared Heating
+image: /images/home/feature-infrared.jpg
+alt: Close-up of a client's foot on a soft ball
+---
+Our infrared-heated studio brings a gentle warmth that promotes a calm, comfortable feeling during your session.

@@ -1,0 +1,4 @@
+heading: Find a *class* you'll love
+button: View all classes
+---
+Five ways to move, from strong and precise to slow and restorative.

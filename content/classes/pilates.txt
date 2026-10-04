@@ -1,0 +1,19 @@
+order: 1
+title: Forge Pilates
+type: Mat
+tagline: Mat-based Pilates connecting mind, breath and core.
+level: All abilities
+image: /images/classes/pilates.jpg
+alt: A client performing mat Pilates
+---
+A mat-based Pilates class focused on building and maintaining a strong connection between mind and body. Each movement is performed with intention and control, encouraging greater awareness of how and why you move.
+
+Breath is woven into every exercise, with particular emphasis on controlled exhalation and the power of the core, or "powerhouse", to support and enhance movement. As you progress, you'll develop a deeper understanding of how breath, core connection and mindful movement can help you access your body's full potential, within your own range of movement.
+
+Suitable for all abilities, with modifications and props provided throughout.
+
+## What to bring
+- Comfortable, fitted clothing you can move in
+- Grip socks (recommended)
+- A water bottle
+- A small towel

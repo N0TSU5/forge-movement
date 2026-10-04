@@ -1,0 +1,19 @@
+heading: Explore **Forge Movement**
+===
+button: Our instructors
+link: /instructors
+image: /images/home/explore-instructors.jpg
+focus: 50% 62%
+alt: The Reformer studio
+===
+button: Curated classes
+link: /classes
+image: /images/home/explore-classes.jpg
+focus: 50% 45%
+alt: A client using Reformer straps
+===
+button: Our story
+link: /our-story
+image: /images/home/explore-story.jpg
+focus: 50% 55%
+alt: The studio reception with plants

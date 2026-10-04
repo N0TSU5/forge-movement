@@ -1,0 +1,21 @@
+heading: Inside the *studio*
+---
+A first-floor space above CrossFit Digbeth: warm light, Reformers, and room to breathe.
+===
+image: /images/gallery/01.jpg
+alt: The Reformer room
+===
+image: /images/gallery/02.jpg
+alt: A Reformer class in progress
+===
+image: /images/gallery/03.jpg
+alt: Mat Pilates with props
+===
+image: /images/gallery/04.jpg
+alt: The studio reception area
+===
+image: /images/gallery/05.jpg
+alt: A Forge Reset class in the infrared studio
+===
+image: /images/gallery/06.jpg
+alt: Props and equipment

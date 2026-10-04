@@ -1,0 +1,7 @@
+heading: Join the *team*
+button: Apply now
+email_subject: Instructor application, Forge Movement
+---
+If you love creating killer sequences, blasting great playlists, and changing lives one core connection at a time, we want to meet you. Join a growing community of passionate instructors dedicated to embracing movement. Let's grow together!
+
+Send us your CV, certifications and Instagram handle, and tell us which classes you'd love to teach.

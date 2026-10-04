@@ -1,0 +1,15 @@
+name: Forge Movement
+tagline: Pilates & recovery studio in Digbeth, Birmingham
+address_line1: 1st Floor, Above CrossFit Digbeth
+address_line2: 140 Heath Mill Ln, Deritend
+address_line3: Birmingham B9 4AR, United Kingdom
+map_query: 140 Heath Mill Ln, Deritend, Birmingham B9 4AR
+# Leave phone empty to hide it everywhere on the site
+phone:
+email: forgemovementdigbeth@gmail.com
+instagram: forgemovement_birmingham
+tiktok: forgemovement_birmingham
+# Momence: paste the host ID from Momence > Studio Setup > Add to Website
+momence_host_id:
+# Where "Book" buttons go. Leave empty to use the on-site schedule page.
+booking_url:

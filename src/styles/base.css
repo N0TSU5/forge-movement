@@ -1,0 +1,302 @@
+/* ==========================================================================
+   Tokens
+   ========================================================================== */
+
+:root {
+  /* Brand */
+  --brown: #402a1d;
+  --cream: #efe5db;
+  --ember: #e53e0b;
+  /* Secondary (from the Canva template) */
+  --rust: #5c2a10;
+  --sand: #e8d8a0;
+  --white: #ffffff;
+  --card: #f4f1ec;
+  --ink-soft: rgba(64, 42, 29, 0.72);
+
+  /*
+   * Fonts. The brief specifies Cooper BT (headings) and Century Gothic (subheadings),
+   * both commercial. Free stand-ins are used until licensed webfonts are added:
+   * drop the .woff2 files in /public/fonts, add @font-face rules, and put the
+   * licensed family first in these stacks.
+   */
+  --font-heading: 'Fraunces', 'Cooper Lt BT', 'Cooper BT', Georgia, serif;
+  --font-sub: 'Questrial', 'Century Gothic', 'Futura', sans-serif;
+  --font-button: 'Arimo', 'Arial', sans-serif;
+  --font-logo: 'Orbitron', 'Arimo', sans-serif;
+
+  --container: 1200px;
+  --gutter: clamp(16px, 4vw, 48px);
+  --band-pad: clamp(64px, 9vw, 120px);
+  --radius: 14px;
+  --header-h: 72px;
+}
+
+/* ==========================================================================
+   Reset & base
+   ========================================================================== */
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html {
+  -webkit-text-size-adjust: 100%;
+  scroll-behavior: smooth;
+  scroll-padding-top: calc(var(--header-h) + 16px);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+  *,
+  *::before,
+  *::after {
+    transition: none !important;
+    animation: none !important;
+  }
+}
+
+body {
+  margin: 0;
+  background: var(--brown);
+  color: var(--brown);
+  font-family: var(--font-sub);
+  font-size: 1.125rem;
+  line-height: 1.6;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  margin: 0 0 0.5em;
+  font-family: var(--font-heading);
+  font-weight: 400;
+  font-variation-settings: 'SOFT' 100, 'WONK' 0;
+  line-height: 1.1;
+}
+
+p {
+  margin: 0 0 1em;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+}
+
+a {
+  color: inherit;
+}
+
+em {
+  font-style: italic;
+}
+
+em.accent {
+  color: var(--ember);
+}
+
+ul,
+ol {
+  margin: 0 0 1em;
+  padding-left: 1.2em;
+}
+
+address {
+  font-style: normal;
+}
+
+code {
+  font-size: 0.9em;
+  padding: 0.1em 0.35em;
+  border-radius: 4px;
+  background: rgba(64, 42, 29, 0.08);
+}
+
+:focus-visible {
+  outline: 2px solid var(--ember);
+  outline-offset: 3px;
+}
+
+.visually-hidden {
+  position: absolute !important;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  clip: rect(0 0 0 0);
+  white-space: nowrap;
+}
+
+.skip-link {
+  position: absolute;
+  left: 16px;
+  top: -100px;
+  z-index: 100;
+  padding: 10px 16px;
+  background: var(--cream);
+  color: var(--brown);
+  font-family: var(--font-button);
+  font-weight: 700;
+}
+
+.skip-link:focus {
+  top: 16px;
+}
+
+/* ==========================================================================
+   Layout primitives
+   ========================================================================== */
+
+main {
+  display: block;
+}
+
+.container {
+  width: 100%;
+  max-width: calc(var(--container) + var(--gutter) * 2);
+  margin: 0 auto;
+  padding: 0 var(--gutter);
+}
+
+.container--narrow {
+  max-width: calc(860px + var(--gutter) * 2);
+}
+
+.center {
+  text-align: center;
+}
+
+.band {
+  padding: var(--band-pad) 0;
+}
+
+.band--tight-top {
+  padding-top: 0;
+}
+
+.band--brown {
+  background: var(--brown);
+  color: var(--cream);
+}
+
+.band--rust {
+  background: var(--rust);
+  color: var(--cream);
+}
+
+.band--cream {
+  background: var(--cream);
+  color: var(--brown);
+}
+
+.band--sand {
+  background: var(--sand);
+  color: var(--brown);
+}
+
+.band--white {
+  background: var(--white);
+  color: var(--brown);
+}
+
+.band--rust .display {
+  color: var(--sand);
+}
+
+/* ==========================================================================
+   Type
+   ========================================================================== */
+
+.display {
+  font-size: clamp(2.5rem, 6vw, 4.75rem);
+  font-weight: 300;
+  letter-spacing: -0.01em;
+  margin-bottom: 0.45em;
+}
+
+.display--brown {
+  color: var(--rust);
+}
+
+.display--ruled {
+  padding-bottom: 0.2em;
+  border-bottom: 3px solid currentColor;
+  margin-bottom: 0.8em;
+}
+
+.caps-title {
+  font-family: var(--font-heading);
+  font-weight: 500;
+  font-size: 1.35rem;
+  text-transform: uppercase;
+  letter-spacing: 0.01em;
+  line-height: 1.15;
+  margin-bottom: 0.5em;
+}
+
+.caps-title--large {
+  font-size: clamp(1.8rem, 3vw, 2.4rem);
+  color: var(--rust);
+}
+
+.eyebrow {
+  display: block;
+  margin: 0 0 0.6em;
+  font-family: var(--font-button);
+  font-size: 0.8rem;
+  font-weight: 700;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--ember);
+}
+
+.lede {
+  font-size: clamp(1.15rem, 2vw, 1.5rem);
+  line-height: 1.45;
+  max-width: 52ch;
+  margin: 0 auto 1.6em;
+}
+
+.lede--left {
+  margin-left: 0;
+}
+
+.prose {
+  max-width: 64ch;
+}
+
+.prose--large {
+  font-size: 1.2rem;
+}
+
+.prose h3 {
+  font-size: 1.6rem;
+  margin-top: 1.4em;
+}
+
+.text-link {
+  font-family: var(--font-button);
+  font-weight: 700;
+  font-size: 0.95rem;
+  text-decoration: none;
+  border-bottom: 2px solid var(--ember);
+  padding-bottom: 2px;
+}
+
+.text-link:hover {
+  color: var(--ember);
+}
+
+.note {
+  font-size: 0.95rem;
+  padding: 12px 16px;
+  border-left: 3px solid var(--ember);
+  background: rgba(255, 255, 255, 0.5);
+}

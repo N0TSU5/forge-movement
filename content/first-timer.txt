@@ -1,0 +1,25 @@
+heading: New to **Forge**?
+image: /images/studio/first-timer.jpg
+alt: The Forge studio
+button: Book trial class
+---
+Welcome. Whether you've never tried Pilates or you're coming from another studio, our classes are designed to meet you where you are. We're on the first floor above CrossFit Digbeth: warm, calm, and kept to small groups so your instructor can actually see you.
+
+## Choose your *format*
+- Mat | Forge Pilates | Build the foundations: breath, core connection and control, using your own body and a few props. A great place to start. | /classes/pilates
+- Reformer | Forge Reformer · Forge Contrast | Springs, resistance and support on the Reformer, in groups of up to five. Strength, precision and a full-body workout. | /classes/reformer
+- Recovery | Forge Restore · Forge Reset | Slower, restorative sessions blending yoga, stretching and breath, including our infrared-heated Reset. | /classes/reset
+
+## What to *bring*
+- Comfortable, fitted clothing | Something you can move and stretch in. Loose tops can catch on Reformer springs.
+- Grip socks | Required for Reformer and Contrast for hygiene reasons, and recommended for every class.
+- Non-slip gloves | Required for Forge Contrast.
+- Water bottle | Especially for Forge Reset in the infrared-heated studio.
+- Small towel | Optional, but handy.
+- An open mind | Go at your own pace. Every exercise has a modification.
+
+## Your first *class*
+- Book online | Pick a class on our schedule and reserve your spot.
+- Arrive 10 minutes early | Find us on the 1st floor above CrossFit Digbeth, settle in, and meet your instructor.
+- Tell us about you | Let your instructor know about any injuries, conditions or pregnancy before class starts.
+- Move at your pace | Your instructor will offer modifications throughout. There's no "keeping up" here.

@@ -1,0 +1,17 @@
+heading: Testimonials
+button: Book trial class
+===
+name: [Client name]
+image: /images/home/testimonial-1.jpg
+---
+[Placeholder testimonial. Replace with a real review from a Forge client, ideally two or three sentences about how the classes made them feel.]
+===
+name: [Client name]
+image: /images/home/testimonial-2.jpg
+---
+[Placeholder testimonial. Replace with a real review from a Forge client, ideally two or three sentences about how the classes made them feel.]
+===
+name: [Client name]
+image: /images/home/testimonial-3.jpg
+---
+[Placeholder testimonial. Replace with a real review from a Forge client, ideally two or three sentences about how the classes made them feel.]

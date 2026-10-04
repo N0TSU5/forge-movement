@@ -1,0 +1,13 @@
+order: 2
+name: Lamia
+role: Assistant Trainer
+image: /images/instructors/lamia.jpg
+# Momence teacher ID: lets the schedule page filter to Lamia's classes
+momence_teacher_id:
+---
+[Short introduction for Lamia: two to four sentences on who they are, why they teach, and what a class with them feels like.]
+
+## Experience
+- [Certification, e.g. Comprehensive Pilates Instructor Certification]
+- [Years teaching / specialisms]
+- [Other training, e.g. prenatal, Yin Yoga, injury rehab]

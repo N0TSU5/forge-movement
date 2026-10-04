@@ -1,0 +1,6 @@
+heading: Forge **Movement**
+image: /images/studio/contact.jpg
+alt: The Forge studio
+map_heading: Finding *us*
+---
+We're on the 1st floor, above CrossFit Digbeth. Look for the entrance on Heath Mill Lane and head upstairs.

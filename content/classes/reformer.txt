@@ -1,0 +1,22 @@
+order: 2
+title: Forge Reformer
+type: Reformer
+tagline: Small-group Reformer, up to five people.
+level: All abilities
+capacity: Up to 5
+image: /images/classes/reformer.jpg
+alt: Clients working on Reformers
+---
+A small-group Reformer Pilates class for up to five people, combining classical and contemporary Pilates repertoire.
+
+Using the Reformer's springs, resistance, supports and a range of props, each class offers a full-body experience centred around control, precision and intentional movement. Exercises are layered progressively, challenging both the body and the mind as you coordinate movement and breath in time with the teacher's cadence.
+
+Expect to build strength, stability, coordination and body awareness while working at a pace that allows you to move with purpose.
+
+Suitable for all abilities, with modifications and props provided throughout.
+
+## What to bring
+- Grip socks (required, for hygiene reasons)
+- Comfortable, fitted clothing (loose tops can catch on springs)
+- A water bottle
+- A small towel
