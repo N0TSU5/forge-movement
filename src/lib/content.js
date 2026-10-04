@@ -113,6 +113,11 @@ export function splitItem(item) {
   return item.split('|').map((s) => s.trim())
 }
 
+/** Prefixes root-relative paths (e.g. /images/x.jpg from content files) with the deploy base path. */
+export function asset(path) {
+  return path?.startsWith('/') ? import.meta.env.BASE_URL + path.slice(1) : path
+}
+
 export const site = getEntry('site').meta
 
 export function bookingHref() {

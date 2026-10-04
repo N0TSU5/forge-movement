@@ -10,6 +10,6 @@ email: forgemovementdigbeth@gmail.com
 instagram: forgemovement_birmingham
 tiktok: forgemovement_birmingham
 # Momence: paste the host ID from Momence > Studio Setup > Add to Website
-momence_host_id:
+momence_host_id: 352016
 # Where "Book" buttons go. Leave empty to use the on-site schedule page.
 booking_url:

@@ -1,11 +1,12 @@
 import { useState } from 'react'
+import { asset } from '../lib/content'
 
 // The "F" mark from the nav bar (public/images/logo-mark.png), with an SVG fallback.
 export function LogoMark({ className = '' }) {
   const [failed, setFailed] = useState(false)
   if (!failed) {
     return (
-      <img className={`logo-mark ${className}`} src="/images/logo-mark.png" alt="Forge Movement"
+      <img className={`logo-mark ${className}`} src={asset('/images/logo-mark.png')} alt="Forge Movement"
         onError={() => setFailed(true)} />
     )
   }
@@ -21,7 +22,7 @@ export function LogoLockup({ className = '' }) {
   const [failed, setFailed] = useState(false)
   if (!failed) {
     return (
-      <img className={`lockup lockup--img ${className}`} src="/images/logo-lockup.png"
+      <img className={`lockup lockup--img ${className}`} src={asset('/images/logo-lockup.png')}
         alt="Forge Movement" onError={() => setFailed(true)} />
     )
   }

@@ -25,6 +25,12 @@
   --font-button: 'Arimo', 'Arial', sans-serif;
   --font-logo: 'Orbitron', 'Arimo', sans-serif;
 
+  /* Momence schedule plugin theme. The plugin reads these from <body>, so they must be global.
+     Primary/black are "r, g, b" triplets. */
+  --momenceColorBackground: #efe5db;
+  --momenceColorPrimary: 229, 62, 11;
+  --momenceColorBlack: 64, 42, 29;
+
   --container: 1200px;
   --gutter: clamp(16px, 4vw, 48px);
   --band-pad: clamp(64px, 9vw, 120px);

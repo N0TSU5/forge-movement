@@ -1,4 +1,5 @@
 import { useState } from 'react'
+import { asset } from '../lib/content'
 
 // An image that falls back to a labelled placeholder until the real file is added.
 // `focus` sets which part of the photo stays visible when it is cropped (CSS object-position).
@@ -20,7 +21,7 @@ export default function Photo({ src, alt = '', className = '', ratio, focus }) {
     <img
       className={`photo ${className}`}
       style={style}
-      src={src}
+      src={asset(src)}
       alt={alt}
       loading="lazy"
       onError={() => setFailed(true)}
