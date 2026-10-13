@@ -6,9 +6,9 @@ button: Book trial class
 Welcome. Whether you've never tried Pilates or you're coming from another studio, our classes are designed to meet you where you are. We're on the first floor above CrossFit Digbeth: warm, calm, and kept to small groups so your instructor can actually see you.
 
 ## Choose your *format*
-- Mat | Forge Pilates | Build the foundations: breath, core connection and control, using your own body and a few props. A great place to start. | /classes/pilates
-- Reformer | Forge Reformer · Forge Contrast | Springs, resistance and support on the Reformer, in groups of up to five. Strength, precision and a full-body workout. | /classes/reformer
-- Recovery | Forge Restore · Forge Reset | Slower, restorative sessions blending yoga, stretching and breath, including our infrared-heated Reset. | /classes/reset
+- Move | Forge Pilates | Build the foundations: breath, core connection and control, using your own body and a few props. A great place to start. | /classes/pilates
+- Strength | Forge Reformer · Forge Contrast | Springs, resistance and support on the Reformer, in groups of up to five. Strength, precision and a full-body workout. | /classes/reformer
+- Recover | Forge Restore · Forge Reset | Slower, restorative sessions blending yoga, stretching and breath, including our infrared-heated Reset. | /classes/reset
 
 ## What to *bring*
 - Comfortable, fitted clothing | Something you can move and stretch in. Loose tops can catch on Reformer springs.

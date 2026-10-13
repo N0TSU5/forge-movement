@@ -792,3 +792,143 @@
   font-size: 1.6rem;
   line-height: 1.25;
 }
+
+/* ==========================================================================
+   Move → Strength → Recover
+   ========================================================================== */
+
+.pillars {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 40px clamp(32px, 5vw, 72px);
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.pillar {
+  position: relative;
+  padding-top: 24px;
+  border-top: 2px solid rgba(232, 216, 160, 0.4);
+}
+
+/* the arrow between pillars */
+.pillar:not(:last-child)::after {
+  content: '→';
+  position: absolute;
+  top: 10px;
+  right: calc(clamp(32px, 5vw, 72px) / -2 - 0.5em);
+  font-family: var(--font-heading);
+  font-size: 2rem;
+  line-height: 1;
+  color: var(--ember);
+}
+
+.pillar__title {
+  margin-bottom: 0.3em;
+  font-family: var(--font-button);
+  font-weight: 700;
+  font-size: clamp(1.8rem, 3vw, 2.4rem);
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--cream);
+}
+
+.pillar__tagline {
+  font-family: var(--font-heading);
+  font-style: italic;
+  font-size: 1.35rem;
+  line-height: 1.25;
+  color: var(--sand);
+}
+
+.pillar__summary {
+  font-size: 1.05rem;
+  opacity: 0.9;
+}
+
+.pillar__classes {
+  margin: 20px 0 0;
+  padding: 0;
+  list-style: none;
+}
+
+.pillar__classes li + li {
+  margin-top: 6px;
+}
+
+.pillar__classes a {
+  font-family: var(--font-button);
+  font-weight: 700;
+  font-size: 0.95rem;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  text-decoration: none;
+  border-bottom: 2px solid var(--ember);
+  padding-bottom: 2px;
+}
+
+.pillar__classes a::after {
+  content: ' →';
+}
+
+.pillar__classes a:hover {
+  color: var(--ember);
+}
+
+@media (max-width: 820px) {
+  .pillars {
+    grid-template-columns: 1fr;
+  }
+
+  .pillar:not(:last-child)::after {
+    content: '↓';
+    top: auto;
+    right: auto;
+    bottom: -32px;
+    left: 0;
+  }
+}
+
+/* Classes page: jump links and group headers */
+.pillar-jump {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 8px 14px;
+  font-family: var(--font-button);
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+}
+
+.pillar-jump a {
+  text-decoration: none;
+  color: var(--sand);
+  border-bottom: 2px solid transparent;
+}
+
+.pillar-jump a:hover {
+  border-bottom-color: var(--ember);
+}
+
+.pillar-jump a:not(:last-child)::after {
+  content: '→';
+  margin-left: 14px;
+  color: var(--ember);
+}
+
+.pillar-group {
+  display: flex;
+  flex-direction: column;
+  gap: clamp(56px, 8vw, 112px);
+}
+
+.pillar-group + .pillar-group {
+  padding-top: clamp(56px, 8vw, 112px);
+  border-top: 1px solid rgba(64, 42, 29, 0.15);
+}
+
+.pillar-group__head .display {
+  font-size: clamp(2.2rem, 4.5vw, 3.6rem);
+}

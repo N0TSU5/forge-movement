@@ -1,5 +1,6 @@
 order: 4
 title: Forge Restore
+pillar: recover
 type: Yoga + Pilates
 tagline: A slower blend of yoga and Pilates to release and rebalance.
 level: All levels

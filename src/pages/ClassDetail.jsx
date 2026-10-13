@@ -1,5 +1,5 @@
 import { Link, useParams } from 'react-router'
-import { getCollection, intro, findSection, bookingHref } from '../lib/content'
+import { getCollection, getApproach, intro, findSection, bookingHref } from '../lib/content'
 import useTitle from '../lib/useTitle'
 import Body, { Blocks } from '../components/Body'
 import Photo from '../components/Photo'
@@ -7,6 +7,7 @@ import Button from '../components/Button'
 import NotFound from './NotFound'
 
 const classes = getCollection('classes')
+const { pillars } = getApproach()
 
 export default function ClassDetail() {
   const { slug } = useParams()
@@ -17,6 +18,7 @@ export default function ClassDetail() {
   const m = c.meta
   const bring = findSection(c, 'What to bring')
   const others = classes.filter((x) => x.slug !== slug)
+  const pillar = pillars.find((p) => p.meta.id === m.pillar)
 
   return (
     <>
@@ -27,6 +29,9 @@ export default function ClassDetail() {
             <h1 className="display">{m.title}</h1>
             <p className="class-cover__tagline">{m.tagline}</p>
             <ul className="chips">
+              {pillar && (
+                <li className="chips__pillar"><Link to={`/classes#${pillar.meta.id}`}>{pillar.meta.title}</Link></li>
+              )}
               {m.type && <li>{m.type}</li>}
               {m.level && <li>{m.level}</li>}
               {m.capacity && <li>{m.capacity}</li>}

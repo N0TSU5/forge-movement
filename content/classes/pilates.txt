@@ -1,5 +1,6 @@
 order: 1
 title: Forge Pilates
+pillar: move
 type: Mat
 tagline: Mat-based Pilates connecting mind, breath and core.
 level: All abilities

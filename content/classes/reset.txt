@@ -1,5 +1,6 @@
 order: 5
 title: Forge Reset
+pillar: recover
 type: Infrared recovery
 tagline: The strength to slow down. The space to restore.
 level: All levels

@@ -1,0 +1,30 @@
+heading: The Forge *approach*
+---
+Forge Movement isn't about one type of exercise. It's about building a body that moves well, feels strong and knows how to recover.
+===
+id: move
+title: Move
+tagline: Move with intention.
+summary: We focus on quality of movement rather than simply moving for the sake of moving.
+---
+Pilates, yoga and barre encourage greater awareness, control, mobility and connection. We focus on quality of movement rather than simply moving for the sake of moving.
+
+Because understanding how you move can change the way you move through everything else.
+===
+id: strength
+title: Strength
+tagline: Build a body that can do more.
+summary: Strength isn't just about lifting heavier. It's about developing a body that feels capable, resilient and confident.
+---
+Strength isn't just about lifting heavier. It's about developing a body that feels capable, resilient and confident.
+
+At Forge, we believe strength should support everyday life, helping you move with greater freedom, stability and confidence.
+===
+id: recover
+title: Recover
+tagline: Recovery isn't an afterthought. It's part of the work.
+summary: Our infrared-heated studio is designed to complement your movement practice and encourage relaxation and recovery.
+---
+Our infrared-heated studio creates a warm environment designed to complement your movement practice and encourage relaxation and recovery.
+
+Because becoming stronger isn't only about what you ask your body to do. It's also about how well you allow it to recover.

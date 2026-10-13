@@ -1,9 +1,9 @@
 import { useEffect, useState } from 'react'
 import { Link, NavLink, useLocation } from 'react-router'
-import { getCollection } from '../lib/content'
+import { getApproach } from '../lib/content'
 import { LogoMark } from './Logo'
 
-const classes = getCollection('classes')
+const { pillars } = getApproach()
 
 const NAV = [
   {
@@ -17,7 +17,10 @@ const NAV = [
     label: 'Classes', to: '/classes',
     children: [
       { label: 'All classes', to: '/classes' },
-      ...classes.map((c) => ({ label: c.meta.title, to: `/classes/${c.slug}` })),
+      ...pillars.flatMap((p) => [
+        { group: p.meta.title },
+        ...p.classes.map((c) => ({ label: c.meta.title, to: `/classes/${c.slug}` })),
+      ]),
     ],
   },
   { label: 'Instructor', to: '/instructors' },
@@ -81,11 +84,15 @@ export default function Header() {
                       <Chevron />
                     </button>
                     <ul className="nav__sub">
-                      {item.children.map((c) => (
-                        <li key={c.to + c.label}>
-                          <NavLink to={c.to} end className="nav__sublink">{c.label}</NavLink>
-                        </li>
-                      ))}
+                      {item.children.map((c) =>
+                        c.group ? (
+                          <li key={`group-${c.group}`} className="nav__group">{c.group}</li>
+                        ) : (
+                          <li key={c.to + c.label}>
+                            <NavLink to={c.to} end className="nav__sublink">{c.label}</NavLink>
+                          </li>
+                        ),
+                      )}
                     </ul>
                   </>
                 )}

@@ -118,6 +118,16 @@ export function asset(path) {
   return path?.startsWith('/') ? import.meta.env.BASE_URL + path.slice(1) : path
 }
 
+/** The Move / Strength / Recover pillars (content/approach.txt), each with its classes (`pillar:`). */
+export function getApproach() {
+  const [introBlock, ...pillars] = getBlocks('approach')
+  const classes = getCollection('classes')
+  return {
+    intro: introBlock,
+    pillars: pillars.map((p) => ({ ...p, classes: classes.filter((c) => c.meta.pillar === p.meta.id) })),
+  }
+}
+
 export const site = getEntry('site').meta
 
 export function bookingHref() {

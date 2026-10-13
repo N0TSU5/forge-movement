@@ -563,3 +563,31 @@
 .momence {
   min-height: 420px;
 }
+
+/* Nav dropdown group labels (Move / Strength / Recover) */
+.nav__group {
+  padding: 12px 18px 2px;
+  font-family: var(--font-button);
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--ember);
+}
+
+@media (max-width: 960px) {
+  .nav__group {
+    padding-left: 12px;
+  }
+}
+
+/* Class page: the pillar chip links back to its group */
+.chips__pillar {
+  border-color: var(--ember) !important;
+  background: var(--ember);
+}
+
+.chips__pillar a {
+  color: var(--white);
+  text-decoration: none;
+}

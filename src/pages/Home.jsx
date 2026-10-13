@@ -1,5 +1,5 @@
 import { Link } from 'react-router'
-import { getEntry, getBlocks, getCollection, bookingHref } from '../lib/content'
+import { getEntry, getBlocks, getApproach, bookingHref } from '../lib/content'
 import useTitle from '../lib/useTitle'
 import Rich from '../components/Rich'
 import Body from '../components/Body'
@@ -10,8 +10,8 @@ import { LogoLockup } from '../components/Logo'
 const hero = getEntry('home/hero').meta
 const intro = getEntry('home/intro')
 const features = getBlocks('home/features')
-const classesIntro = getEntry('home/classes')
-const classes = getCollection('classes')
+const classesCta = getEntry('home/classes').meta
+const approach = getApproach()
 const [galleryIntro, ...gallery] = getBlocks('home/gallery')
 const [exploreIntro, ...explore] = getBlocks('home/explore')
 const [testimonialsIntro, ...testimonials] = getBlocks('home/testimonials')
@@ -52,22 +52,26 @@ export default function Home() {
       <section className="band band--rust">
         <div className="container">
           <div className="section-head section-head--split">
-            <h2 className="display"><Rich text={classesIntro.meta.heading} /></h2>
+            <h2 className="display"><Rich text={approach.intro.meta.heading} /></h2>
             <div className="section-head__aside">
-              <Body sections={classesIntro.sections} />
-              <Button to="/classes" variant="cream">{classesIntro.meta.button}</Button>
+              <Body sections={approach.intro.sections} />
+              <Button to="/classes" variant="cream">{classesCta.button}</Button>
             </div>
           </div>
-          <div className="class-strip">
-            {classes.map((c) => (
-              <Link key={c.slug} to={`/classes/${c.slug}`} className="class-card">
-                <Photo src={c.meta.image} alt={c.meta.alt} ratio="3 / 4" />
-                <span className="class-card__type">{c.meta.type}</span>
-                <h3 className="class-card__title">{c.meta.title}</h3>
-                <p className="class-card__tagline">{c.meta.tagline}</p>
-              </Link>
+          <ol className="pillars">
+            {approach.pillars.map((p) => (
+              <li key={p.meta.id} className="pillar">
+                <h3 className="pillar__title">{p.meta.title}</h3>
+                <p className="pillar__tagline">{p.meta.tagline}</p>
+                <p className="pillar__summary">{p.meta.summary}</p>
+                <ul className="pillar__classes">
+                  {p.classes.map((c) => (
+                    <li key={c.slug}><Link to={`/classes/${c.slug}`}>{c.meta.title}</Link></li>
+                  ))}
+                </ul>
+              </li>
             ))}
-          </div>
+          </ol>
         </div>
       </section>
 

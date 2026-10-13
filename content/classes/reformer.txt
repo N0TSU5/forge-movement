@@ -1,5 +1,6 @@
 order: 2
 title: Forge Reformer
+pillar: strength
 type: Reformer
 tagline: Small-group Reformer, up to five people.
 level: All abilities

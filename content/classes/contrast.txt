@@ -1,5 +1,6 @@
 order: 3
 title: Forge Contrast
+pillar: strength
 type: Reformer + Mat
 tagline: Reformer and mat in one session. Feel the difference.
 level: All levels
