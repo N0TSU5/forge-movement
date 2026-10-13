@@ -1,13 +1,18 @@
 order: 1
 name: Nora
-role: [Role, e.g. Founder & Pilates Instructor]
+role: Founder & Instructor
 image: /images/instructors/nora.jpg
 # Momence teacher ID: lets the schedule page filter to Nora's classes
 momence_teacher_id:
 ---
-[Short introduction for Nora: two to four sentences on who they are, why they teach, and what a class with them feels like.]
+Nora is first and foremost a dedicated mum of four (and two fur babies). She found her calling as a movement advocate while raising her children, when movement was the one thing that kept her sane.
+
+A scientist by background, Nora learns methodically, through trial and error. She has been through the process herself and come out the other side with a better understanding of how the body should move, safely and effectively. Her love of yoga deepened when she discovered Reformer Pilates. Then Olympic weightlifting at CrossFit Digbeth, while working through reduced flexibility after surgery, sparked the idea behind Forge: bridging the gap between Pilates, yoga and strength training, with infrared heat for recovery.
+
+Forge Movement was born out of real experience of building body and mindset through every stage of life. Nora and her team welcome anyone curious and willing to learn how to move, safely and effectively, at any stage of life.
 
 ## Experience
-- [Certification, e.g. Comprehensive Pilates Instructor Certification]
-- [Years teaching / specialisms]
-- [Other training, e.g. prenatal, Yin Yoga, injury rehab]
+- Comprehensive Pilates qualification in progress: Lolita's Legacy teacher training with Balans studio, Scotland
+- Yoga and Reformer Pilates practice
+- Olympic weightlifting at CrossFit Digbeth
+- Background as a scientist
