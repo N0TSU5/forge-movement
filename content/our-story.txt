@@ -1,4 +1,6 @@
 heading: Our Story
+tagline: **Move** with purpose. Leave *stronger*.
+lede: A movement studio built around how real bodies move, adapt and recover.
 image1: /images/studio/story-1.jpg
 alt1: A client stretching on the Reformer
 image2: /images/studio/story-2.jpg
@@ -6,13 +8,19 @@ alt2: Reformer straps in use
 image3: /images/studio/story-3.jpg
 alt3: A standing balance against the studio wall
 ---
-[Placeholder: how Forge Movement began. Who founded it, and why Digbeth?]
+Forge Movement was created from a simple belief: your body is worth investing in at every stage of life.
 
-[Placeholder: what Forge stands for. Intention behind every exercise, breath, strength and recovery as part of the same process.]
+We bring together Pilates, yoga, barre, strength and infrared heat to create a space where movement is purposeful, intelligent and accessible.
 
-[Placeholder: the community you're building, and who the studio is for.]
+Whether you are beginning your movement journey, looking to build strength, improve mobility or simply feel better in your body, Forge is a place to learn, move and grow, without judgement and without the pressure to be perfect.
 
-## Stay *motivated* together
-- Intention | Every movement has a purpose. We teach the how *and* the why.
-- Strength & recovery | Effort and rest are part of the same process, from Reformer to infrared Reset.
-- Every body welcome | Small groups, modifications and props so you can move within your own range.
+## Why *Forge*?
+Because movement should be more than something you simply do.
+
+It should help you understand your body, build confidence in what it can do and give you the tools to keep moving well for life.
+
+At Forge, we believe strength and mobility belong together. So do movement and recovery.
+
+Our classes are designed to complement one another, combining the precision and control of Pilates, the mobility and mindfulness of yoga, the strength and rhythm of barre, and the restorative benefits of infrared heat.
+
+**Different disciplines. One stronger you.**

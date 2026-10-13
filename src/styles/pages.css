@@ -771,3 +771,24 @@
     grid-template-columns: 1fr;
   }
 }
+
+/* ==========================================================================
+   Our Story: tagline & Why Forge
+   ========================================================================== */
+
+.story-tagline {
+  font-family: var(--font-heading);
+  font-variation-settings: 'SOFT' 100, 'WONK' 0;
+  font-weight: 300;
+  font-size: clamp(1.8rem, 3.6vw, 2.8rem);
+  line-height: 1.15;
+  margin-bottom: 0.4em;
+}
+
+/* The closing line ("Different disciplines. One stronger you.") */
+.why-forge p:last-child {
+  margin-top: 1.4em;
+  font-family: var(--font-heading);
+  font-size: 1.6rem;
+  line-height: 1.25;
+}
