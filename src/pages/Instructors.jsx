@@ -3,7 +3,6 @@ import useTitle from '../lib/useTitle'
 import Rich from '../components/Rich'
 import Body, { Blocks } from '../components/Body'
 import Photo from '../components/Photo'
-import Button from '../components/Button'
 
 const page = getEntry('instructors/_page')
 const instructors = getCollection('instructors')
@@ -37,9 +36,6 @@ export default function Instructors() {
                       <div className="prose"><Blocks blocks={experience.blocks} /></div>
                     </>
                   )}
-                  <Button to={`/schedule?instructor=${p.slug}`} variant="solid">
-                    See {p.meta.name}'s classes
-                  </Button>
                 </div>
               </article>
             )

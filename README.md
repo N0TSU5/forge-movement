@@ -21,7 +21,7 @@ Optional brand files:
 ## Momence
 
 Set `momence_host_id` in `content/site.txt` to show the live timetable on `/schedule`.
-Add each instructor's `momence_teacher_id` to enable the instructor filter.
+Visitors filter by instructor with the Momence plugin's own dropdown.
 
 ## Deploying
 

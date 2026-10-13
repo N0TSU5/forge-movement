@@ -2,8 +2,6 @@ order: 1
 name: Nora
 role: Founder & Instructor
 image: /images/instructors/nora.jpg
-# Momence teacher ID: lets the schedule page filter to Nora's classes
-momence_teacher_id:
 ---
 Nora is first and foremost a dedicated mum of four (and two fur babies). She found her calling as a movement advocate while raising her children, when movement was the one thing that kept her sane.
 
