@@ -40,7 +40,7 @@ Forge Reset takes place in our infrared-heated studio. The gentle warmth helps t
 category: Bookings
 q: How do I book a class?
 ---
-Head to our Class Schedule page and book directly through Momence. You can filter the timetable by instructor.
+Head to our Class Schedule page and book directly through Momence.
 ===
 category: Bookings
 q: What is your cancellation policy?

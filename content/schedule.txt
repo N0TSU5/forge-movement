@@ -1,3 +1,1 @@
 heading: Class *schedule*
----
-Book your next class below. Filter by instructor to train with your favourite teacher.

@@ -13,7 +13,7 @@ export default function Schedule() {
       <section className="band band--brown page-hero">
         <div className="container container--narrow">
           <h1 className="display"><Rich text={page.meta.heading} /></h1>
-          <div className="lede"><Body sections={page.sections} /></div>
+          {page.sections.length > 0 && <div className="lede"><Body sections={page.sections} /></div>}
         </div>
       </section>
 
