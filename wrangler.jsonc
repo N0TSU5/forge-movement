@@ -1,0 +1,10 @@
+// Cloudflare Workers static-assets deploy: `npm run deploy:cf`
+{
+  "name": "forge-movement",
+  "compatibility_date": "2026-10-14",
+  "assets": {
+    "directory": "./dist",
+    // Serve index.html (200) for client-side routes like /classes/reformer
+    "not_found_handling": "single-page-application"
+  }
+}
