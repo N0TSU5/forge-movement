@@ -27,7 +27,7 @@ Visitors filter by instructor with the Momence plugin's own dropdown.
 
 This is a single-page app, so the host must serve `index.html` for every route (an SPA rewrite).
 
-- **GitHub Pages:** `npm run deploy` builds with the `/forge-movement/` base path and pushes `dist/` to the `gh-pages` branch.
-- **Cloudflare:** `npm run deploy:cf` builds for the domain root (`BASE_PATH=/`) and runs `wrangler deploy` using [`wrangler.jsonc`](wrangler.jsonc). Run `npx wrangler login` once first.
+- **Cloudflare:** `npx wrangler deploy` (or `npm run deploy:cf`). [`wrangler.jsonc`](wrangler.jsonc) runs `npm run build` first, which builds for the domain root. Run `npx wrangler login` once first.
+- **GitHub Pages:** `npm run deploy` builds with the `/forge-movement/` base path (GitHub serves the site from a subfolder) and pushes `dist/` to the `gh-pages` branch.
 
 Research and design notes: [`docs/RESEARCH.md`](docs/RESEARCH.md).

@@ -1,7 +1,10 @@
-// Cloudflare Workers static-assets deploy: `npm run deploy:cf`
+// Cloudflare Workers static-assets deploy: `npx wrangler deploy` (builds first, then uploads ./dist)
 {
   "name": "forge-movement",
   "compatibility_date": "2026-10-14",
+  "build": {
+    "command": "npm run build"
+  },
   "assets": {
     "directory": "./dist",
     // Serve index.html (200) for client-side routes like /classes/reformer

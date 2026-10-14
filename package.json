@@ -7,8 +7,8 @@
     "dev": "vite",
     "build": "vite build && cp dist/index.html dist/404.html",
     "preview": "vite preview",
-    "deploy": "npm run build && gh-pages -d dist --dotfiles",
-    "deploy:cf": "BASE_PATH=/ npm run build && wrangler deploy"
+    "deploy": "BASE_PATH=/forge-movement/ npm run build && gh-pages -d dist --dotfiles",
+    "deploy:cf": "wrangler deploy"
   },
   "dependencies": {
     "react": "^19.3.0",
