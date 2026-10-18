@@ -9,8 +9,8 @@ alt: The Reformer studio
 button: Curated classes
 link: /classes
 image: /images/home/explore-classes.jpg
-focus: 50% 45%
-alt: A client using Reformer straps
+focus: 50% 60%
+alt: A Mat Pilates class stretching back on their mats
 ===
 button: Our story
 link: /our-story

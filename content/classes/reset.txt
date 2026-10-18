@@ -5,7 +5,7 @@ type: Infrared recovery
 tagline: The strength to slow down. The space to restore.
 level: All levels
 image: /images/classes/reset.jpg
-alt: A calm Yin-style stretch in the infrared studio
+alt: A mat, ball and ring laid out in the candlelit studio
 ---
 Not every transformation happens through effort.
 

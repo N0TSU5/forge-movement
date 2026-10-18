@@ -2,11 +2,11 @@ heading: Our Story
 tagline: **Move** with purpose. Leave *stronger*.
 lede: A movement studio built around how real bodies move, adapt and recover.
 image1: /images/studio/story-1.jpg
-alt1: A client stretching on the Reformer
+alt1: An instructor seated on a mat with a Pilates ball
 image2: /images/studio/story-2.jpg
-alt2: Reformer straps in use
+alt2: An instructor balancing in a Pilates V-sit
 image3: /images/studio/story-3.jpg
-alt3: A standing balance against the studio wall
+alt3: A lamp and framed art beside the studio curtains
 ---
 Forge Movement was created from a simple belief: your body is worth investing in at every stage of life.
 

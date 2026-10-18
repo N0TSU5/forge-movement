@@ -1,6 +1,6 @@
 heading: New to **Forge**?
 image: /images/studio/first-timer.jpg
-alt: The Forge studio
+alt: A mat and Pilates ball ready for class
 button: Book trial class
 ---
 Welcome. Whether you've never tried Pilates or you're coming from another studio, our classes are designed to meet you where you are. We're on the first floor above CrossFit Digbeth: warm, calm, and kept to small groups so your instructor can actually see you.

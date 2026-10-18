@@ -5,7 +5,7 @@ type: Yoga + Pilates
 tagline: A slower blend of yoga and Pilates to release and rebalance.
 level: All levels
 image: /images/classes/restore.jpg
-alt: A client in a restorative stretch
+alt: An instructor sitting cross-legged on a mat with a Pilates ball
 ---
 A restorative blend of yoga asanas and Pilates repertoire designed to create space in both body and mind.
 

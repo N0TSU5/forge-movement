@@ -5,7 +5,7 @@ type: Mat
 tagline: Mat-based Pilates connecting mind, breath and core.
 level: All abilities
 image: /images/classes/pilates.jpg
-alt: A client performing mat Pilates
+alt: An instructor demonstrating a side stretch with a Pilates ball
 ---
 A mat-based Pilates class focused on building and maintaining a strong connection between mind and body. Each movement is performed with intention and control, encouraging greater awareness of how and why you move.
 

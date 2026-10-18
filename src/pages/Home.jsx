@@ -111,7 +111,7 @@ export default function Home() {
               <figure key={i} className="testimonial">
                 <blockquote><Body sections={t.sections} /></blockquote>
                 <figcaption>
-                  <Photo src={t.meta.image} alt="" className="testimonial__avatar" />
+                  {t.meta.image && <Photo src={t.meta.image} alt="" className="testimonial__avatar" />}
                   <span>{t.meta.name}</span>
                 </figcaption>
               </figure>

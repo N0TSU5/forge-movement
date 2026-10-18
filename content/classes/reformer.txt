@@ -6,7 +6,7 @@ tagline: Small-group Reformer, up to five people.
 level: All abilities
 capacity: Up to 5
 image: /images/classes/reformer.jpg
-alt: Clients working on Reformers
+alt: An instructor in a Pilates hundred on the mat
 ---
 A small-group Reformer Pilates class for up to five people, combining classical and contemporary Pilates repertoire.
 
