@@ -180,7 +180,19 @@ function printPlan(toCreate, report, start) {
   }
 }
 
+// The form sometimes renders before the template is applied (blank template,
+// no date fields), so reload it until the date section shows up.
 async function openForm(page, c) {
+  for (let attempt = 1; ; attempt++) {
+    await openFormOnce(page, c)
+    const date = page.locator('input[name="intervals[0].startsAtDate"]')
+    if (await date.waitFor({ timeout: 15_000 }).then(() => true, () => false)) return
+    if (attempt === 3) throw new Error(`The form for ${c.label} never loaded the ${c.template} template`)
+    console.log(`  form loaded without the template, retrying (${attempt}/3)`)
+  }
+}
+
+async function openFormOnce(page, c) {
   await page.goto(`${DASHBOARD}/sessions`, { waitUntil: 'domcontentloaded' })
   await page.getByRole('button', { name: /New class/ }).click()
   await page.getByRole('button', { name: /Recurring/ }).click()
