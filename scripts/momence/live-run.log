@@ -1,0 +1,90 @@
+
+> forge-movement@0.1.0 momence:classes
+> node scripts/momence/create-classes.mjs --start 2026-10-19 --live
+
+Week starting Mon Oct 19 2026
+
+Already in Momence (12):
+  = Reformer · Lamia · Mon 6:30am
+  = Yoga · Harjean · Mon 10:00am
+  = Contrast · Nora · Mon 12:30pm
+  = Reformer · Lamia · Mon 5:30pm
+  = Reformer · Lamia · Mon 6:30pm
+  = Mat · Mat · Mon 7:30pm (women only)
+  = Reformer · Abi · Tue 6:30am
+  = Reformer · Abi · Wed 6:30am
+  = Reformer · Abi · Thu 6:30am
+  = Reformer · Lamia · Thu 12:30pm
+  = Yoga · Jakob · Fri 10:00am
+  = Reformer · instructor tbc · Sat 10:30am (tbc)
+
+To create (23):
+  + Forge Contrast  Contrast · Nora · Tue 10:00am   first class Tue Oct 20 2026
+  + Forge Contrast  Contrast · Nora · Tue 12:30pm   first class Tue Oct 20 2026
+  + Forge Reformer  Reformer · Lamia · Tue 5:30pm   first class Tue Oct 20 2026
+  + Forge Reformer  Reformer · Lamia · Tue 6:30pm   first class Tue Oct 20 2026
+  + Forge Contrast  Contrast · Nora · Tue 7:30pm   first class Tue Oct 20 2026
+  + Forge Contrast  Contrast · Nora · Wed 10:00am   first class Wed Oct 21 2026
+  + Forge Barre     Barre · Amanda · Wed 12:30pm   first class Wed Oct 21 2026
+  + Forge Reformer  Reformer · Tia · Wed 5:30pm (tbc)   first class Wed Oct 21 2026
+  + Forge Reformer  Reformer · Tia · Wed 6:30pm (tbc)   first class Wed Oct 21 2026
+  + Forge Restore   Yoga · Harjean · Wed 7:30pm (women only)   first class Wed Oct 21 2026
+  + Forge Contrast  Contrast · Nora · Thu 10:00am   first class Thu Oct 22 2026
+  + Forge Reformer  Reformer · Lamia · Thu 5:30pm   first class Thu Oct 22 2026
+  + Forge Barre     Barre · Amanda · Thu 6:30pm   first class Thu Oct 22 2026
+  + Forge Restore   Yoga · Amanda · Thu 7:30pm   first class Thu Oct 22 2026
+  + Forge Reformer  Reformer · Lamia · Fri 6:30am   first class Fri Oct 23 2026
+  + Forge Reformer  Reformer · Tia · Fri 12:30pm   first class Fri Oct 23 2026
+  + Forge Reset     Reset · Kam · Fri 5:00pm   first class Fri Oct 23 2026
+  + Forge Pilates   Mat · Kam · Fri 6:00pm   first class Fri Oct 23 2026
+  + Forge Pilates   Mat · Hadiya · Sat 9:00am (women only)   first class Sat Oct 24 2026
+  + Forge Reset     Reset · Myra · Sat 12:30pm   first class Sat Oct 24 2026
+  + Forge Reformer  Reformer · instructor tbc · Sun 9:00am (tbc)   first class Sun Oct 25 2026
+  + Forge Reformer  Reformer · instructor tbc · Sun 10:00am (tbc)   first class Sun Oct 25 2026
+  + Forge Restore   Yoga · Harjean · Sun 11:30am   first class Sun Oct 25 2026
+
+Inconsistencies to fix by hand in Momence (3):
+  ! Saturday 11:30: timetable says Forge Contrast, Momence has Forge Restore
+  ! Friday 18:30: Forge Reformer is in Momence but not on the timetable
+  ! Sunday 10:30: Forge Reformer is in Momence but not on the timetable
+
+[1/23] Creating Contrast · Nora · Tue 10:00am
+  ✓ created
+
+[2/23] Creating Contrast · Nora · Tue 12:30pm
+  ✓ created
+
+[3/23] Creating Reformer · Lamia · Tue 5:30pm
+  ✓ created
+
+[4/23] Creating Reformer · Lamia · Tue 6:30pm
+  ✓ created
+
+[5/23] Creating Contrast · Nora · Tue 7:30pm
+  ✓ created
+
+[6/23] Creating Contrast · Nora · Wed 10:00am
+  ✓ created
+
+[7/23] Creating Barre · Amanda · Wed 12:30pm
+  ✓ created
+
+[8/23] Creating Reformer · Tia · Wed 5:30pm (tbc)
+  ✓ created
+
+[9/23] Creating Reformer · Tia · Wed 6:30pm (tbc)
+  ✓ created
+
+[10/23] Creating Yoga · Harjean · Wed 7:30pm (women only)
+  ✓ created
+
+[11/23] Creating Contrast · Nora · Thu 10:00am
+  ✓ created
+
+[12/23] Creating Reformer · Lamia · Thu 5:30pm
+
+Stopped: locator.fill: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator('input[name="intervals[0].startsAtDate"]')
+
+Screenshot of the page: /Users/marten/programming/forge-movement/scripts/momence/error.png

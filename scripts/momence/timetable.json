@@ -1,0 +1,393 @@
+[
+  {
+    "day": "Monday",
+    "time": "06:30",
+    "type": "Reformer",
+    "instructor": "Lamia",
+    "womenOnly": false,
+    "tbc": false,
+    "notes": [],
+    "warnings": []
+  },
+  {
+    "day": "Monday",
+    "time": "10:00",
+    "type": "Yoga",
+    "instructor": "Harjean",
+    "womenOnly": false,
+    "tbc": false,
+    "notes": [],
+    "warnings": []
+  },
+  {
+    "day": "Monday",
+    "time": "12:30",
+    "type": "Contrast",
+    "instructor": "Nora",
+    "womenOnly": false,
+    "tbc": false,
+    "notes": [],
+    "warnings": []
+  },
+  {
+    "day": "Monday",
+    "time": "17:30",
+    "type": "Reformer",
+    "instructor": "Lamia",
+    "womenOnly": false,
+    "tbc": false,
+    "notes": [],
+    "warnings": []
+  },
+  {
+    "day": "Monday",
+    "time": "18:30",
+    "type": "Reformer",
+    "instructor": "Lamia",
+    "womenOnly": false,
+    "tbc": false,
+    "notes": [],
+    "warnings": []
+  },
+  {
+    "day": "Monday",
+    "time": "19:30",
+    "type": "Mat",
+    "instructor": "Mat",
+    "womenOnly": true,
+    "tbc": false,
+    "notes": [
+      "women only"
+    ],
+    "warnings": [
+      "instructor \"Mat\" looks like a class name"
+    ]
+  },
+  {
+    "day": "Tuesday",
+    "time": "06:30",
+    "type": "Reformer",
+    "instructor": "Abi",
+    "womenOnly": false,
+    "tbc": false,
+    "notes": [],
+    "warnings": []
+  },
+  {
+    "day": "Tuesday",
+    "time": "10:00",
+    "type": "Contrast",
+    "instructor": "Nora",
+    "womenOnly": false,
+    "tbc": false,
+    "notes": [],
+    "warnings": []
+  },
+  {
+    "day": "Tuesday",
+    "time": "12:30",
+    "type": "Contrast",
+    "instructor": "Nora",
+    "womenOnly": false,
+    "tbc": false,
+    "notes": [],
+    "warnings": []
+  },
+  {
+    "day": "Tuesday",
+    "time": "17:30",
+    "type": "Reformer",
+    "instructor": "Lamia",
+    "womenOnly": false,
+    "tbc": false,
+    "notes": [],
+    "warnings": []
+  },
+  {
+    "day": "Tuesday",
+    "time": "18:30",
+    "type": "Reformer",
+    "instructor": "Lamia",
+    "womenOnly": false,
+    "tbc": false,
+    "notes": [],
+    "warnings": []
+  },
+  {
+    "day": "Tuesday",
+    "time": "19:30",
+    "type": "Contrast",
+    "instructor": "Nora",
+    "womenOnly": false,
+    "tbc": false,
+    "notes": [],
+    "warnings": []
+  },
+  {
+    "day": "Wednesday",
+    "time": "06:30",
+    "type": "Reformer",
+    "instructor": "Abi",
+    "womenOnly": false,
+    "tbc": false,
+    "notes": [],
+    "warnings": []
+  },
+  {
+    "day": "Wednesday",
+    "time": "10:00",
+    "type": "Contrast",
+    "instructor": "Nora",
+    "womenOnly": false,
+    "tbc": false,
+    "notes": [],
+    "warnings": []
+  },
+  {
+    "day": "Wednesday",
+    "time": "12:30",
+    "type": "Barre",
+    "instructor": "Amanda",
+    "womenOnly": false,
+    "tbc": false,
+    "notes": [],
+    "warnings": []
+  },
+  {
+    "day": "Wednesday",
+    "time": "17:30",
+    "type": "Reformer",
+    "instructor": "Tia",
+    "womenOnly": false,
+    "tbc": true,
+    "notes": [
+      "tbc"
+    ],
+    "warnings": [
+      "marked tbc"
+    ]
+  },
+  {
+    "day": "Wednesday",
+    "time": "18:30",
+    "type": "Reformer",
+    "instructor": "Tia",
+    "womenOnly": false,
+    "tbc": true,
+    "notes": [
+      "tbc"
+    ],
+    "warnings": [
+      "marked tbc"
+    ]
+  },
+  {
+    "day": "Wednesday",
+    "time": "19:30",
+    "type": "Yoga",
+    "instructor": "Harjean",
+    "womenOnly": true,
+    "tbc": false,
+    "notes": [
+      "women only"
+    ],
+    "warnings": []
+  },
+  {
+    "day": "Thursday",
+    "time": "06:30",
+    "type": "Reformer",
+    "instructor": "Abi",
+    "womenOnly": false,
+    "tbc": false,
+    "notes": [],
+    "warnings": []
+  },
+  {
+    "day": "Thursday",
+    "time": "10:00",
+    "type": "Contrast",
+    "instructor": "Nora",
+    "womenOnly": false,
+    "tbc": false,
+    "notes": [],
+    "warnings": []
+  },
+  {
+    "day": "Thursday",
+    "time": "12:30",
+    "type": "Reformer",
+    "instructor": "Lamia",
+    "womenOnly": false,
+    "tbc": false,
+    "notes": [],
+    "warnings": []
+  },
+  {
+    "day": "Thursday",
+    "time": "17:30",
+    "type": "Reformer",
+    "instructor": "Lamia",
+    "womenOnly": false,
+    "tbc": false,
+    "notes": [],
+    "warnings": []
+  },
+  {
+    "day": "Thursday",
+    "time": "18:30",
+    "type": "Barre",
+    "instructor": "Amanda",
+    "womenOnly": false,
+    "tbc": false,
+    "notes": [],
+    "warnings": []
+  },
+  {
+    "day": "Thursday",
+    "time": "19:30",
+    "type": "Yoga",
+    "instructor": "Amanda",
+    "womenOnly": false,
+    "tbc": false,
+    "notes": [],
+    "warnings": []
+  },
+  {
+    "day": "Friday",
+    "time": "06:30",
+    "type": "Reformer",
+    "instructor": "Lamia",
+    "womenOnly": false,
+    "tbc": false,
+    "notes": [],
+    "warnings": []
+  },
+  {
+    "day": "Friday",
+    "time": "10:00",
+    "type": "Yoga",
+    "instructor": "Jakob",
+    "womenOnly": false,
+    "tbc": false,
+    "notes": [],
+    "warnings": []
+  },
+  {
+    "day": "Friday",
+    "time": "12:30",
+    "type": "Reformer",
+    "instructor": "Tia",
+    "womenOnly": false,
+    "tbc": false,
+    "notes": [],
+    "warnings": []
+  },
+  {
+    "day": "Friday",
+    "time": "17:00",
+    "type": "Reset",
+    "instructor": "Kam",
+    "womenOnly": false,
+    "tbc": false,
+    "notes": [],
+    "warnings": []
+  },
+  {
+    "day": "Friday",
+    "time": "18:00",
+    "type": "Mat",
+    "instructor": "Kam",
+    "womenOnly": false,
+    "tbc": false,
+    "notes": [],
+    "warnings": []
+  },
+  {
+    "day": "Saturday",
+    "time": "09:00",
+    "type": "Mat",
+    "instructor": "Hadiya",
+    "womenOnly": true,
+    "tbc": false,
+    "notes": [
+      "women only"
+    ],
+    "warnings": []
+  },
+  {
+    "day": "Saturday",
+    "time": "10:30",
+    "type": "Reformer",
+    "instructor": null,
+    "womenOnly": false,
+    "tbc": true,
+    "notes": [
+      "alternate /tbc"
+    ],
+    "warnings": [
+      "no instructor",
+      "marked tbc"
+    ]
+  },
+  {
+    "day": "Saturday",
+    "time": "11:30",
+    "type": "Contrast",
+    "instructor": "Nora",
+    "womenOnly": false,
+    "tbc": false,
+    "notes": [],
+    "warnings": []
+  },
+  {
+    "day": "Saturday",
+    "time": "12:30",
+    "type": "Reset",
+    "instructor": "Myra",
+    "womenOnly": false,
+    "tbc": false,
+    "notes": [],
+    "warnings": []
+  },
+  {
+    "day": "Sunday",
+    "time": "09:00",
+    "type": "Reformer",
+    "instructor": null,
+    "womenOnly": false,
+    "tbc": true,
+    "notes": [
+      "alternate/tbc"
+    ],
+    "warnings": [
+      "no instructor",
+      "marked tbc"
+    ]
+  },
+  {
+    "day": "Sunday",
+    "time": "10:00",
+    "type": "Reformer",
+    "instructor": null,
+    "womenOnly": false,
+    "tbc": true,
+    "notes": [
+      "alternate/tbc"
+    ],
+    "warnings": [
+      "no instructor",
+      "marked tbc"
+    ]
+  },
+  {
+    "day": "Sunday",
+    "time": "11:30",
+    "type": "Yoga",
+    "instructor": "Harjean",
+    "womenOnly": false,
+    "tbc": false,
+    "notes": [],
+    "warnings": []
+  }
+]

@@ -1,0 +1,8 @@
+order: 3
+name: Abi
+role: Reformer Instructor
+image: /images/instructors/abi.jpg
+---
+A little bit corporate girlie, a little bit Pilates enthusiast, a whole lot of personality. After years in the corporate world, Abi is following her passion for movement into a chapter that feels a little more her.
+
+She loves people, loves moving and loves getting creative, whether that's finding new ways to move or making Pilates feel a lot less intimidating and a lot more fun. Abi wants to help you move better, feel stronger and build confidence in your body, without feeling like you have to fit a certain mould.

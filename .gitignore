@@ -3,3 +3,8 @@ dist
 *.mov
 .DS_Store
 .wrangler
+
+# Momence automation: logged-in session and raw recordings
+scripts/momence/.auth.json
+scripts/momence/recording*.js
+scripts/momence/*.png

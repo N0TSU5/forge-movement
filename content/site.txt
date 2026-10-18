@@ -7,7 +7,7 @@ map_query: 140 Heath Mill Ln, Deritend, Birmingham B9 4AR
 # Leave phone empty to hide it everywhere on the site
 phone:
 email: forgemovementdigbeth@gmail.com
-instagram: forgemovement_birmingham
+instagram: forgemovement_digbeth
 tiktok: forgemovement_birmingham
 # Momence: paste the host ID from Momence > Studio Setup > Add to Website
 momence_host_id: 352016
