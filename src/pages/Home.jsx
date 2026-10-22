@@ -15,6 +15,7 @@ const approach = getApproach()
 const [galleryIntro, ...gallery] = getBlocks('home/gallery')
 const [exploreIntro, ...explore] = getBlocks('home/explore')
 const [testimonialsIntro, ...testimonials] = getBlocks('home/testimonials')
+const interest = getEntry('home/interest')
 
 export default function Home() {
   useTitle()
@@ -120,6 +121,16 @@ export default function Home() {
           <Button to={bookingHref()} variant="cream">{testimonialsIntro.meta.button}</Button>
         </div>
       </section>
+
+      {interest.meta.form_url && (
+        <section className="band band--cream" id="register-interest">
+          <div className="container container--narrow center">
+            <h2 className="display display--brown"><Rich text={interest.meta.heading} /></h2>
+            <div className="lede"><Body sections={interest.sections} /></div>
+            <iframe className="interest-form" src={interest.meta.form_url} title="Expression of interest form" allowFullScreen />
+          </div>
+        </section>
+      )}
     </>
   )
 }
