@@ -8,6 +8,7 @@ import ClassDetail from './pages/ClassDetail'
 import Instructors from './pages/Instructors'
 import Schedule from './pages/Schedule'
 import Contact from './pages/Contact'
+import Pricing from './pages/Pricing'
 import NotFound from './pages/NotFound'
 
 export default function App() {
@@ -21,6 +22,7 @@ export default function App() {
         <Route path="classes/:slug" element={<ClassDetail />} />
         <Route path="instructors" element={<Instructors />} />
         <Route path="schedule" element={<Schedule />} />
+        <Route path="pricing" element={<Pricing />} />
         <Route path="contact" element={<Contact />} />
         <Route path="*" element={<NotFound />} />
       </Route>

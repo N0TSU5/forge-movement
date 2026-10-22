@@ -25,6 +25,7 @@ const NAV = [
   },
   { label: 'Instructor', to: '/instructors' },
   { label: 'Class Schedule', to: '/schedule' },
+  { label: 'Pricing', to: '/pricing' },
   { label: 'Contact', to: '/contact' },
 ]
 

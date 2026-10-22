@@ -1,0 +1,133 @@
+# PRICING PAGE
+# The first block is the page itself. Every block after it (separated by ===) is one price card.
+# Card settings:
+#   group:    which section the card appears in (cards with the same group sit together, in file order)
+#   label:    small line above the name (optional)
+#   name:     card title
+#   price:    e.g. £139
+#   per:      e.g. / month (optional)
+#   featured: yes  -> highlighted card (optional)
+# Card text: paragraphs and "- " bullet points.
+heading: **Pricing** & *memberships*
+button: Book a class
+---
+Simple options, whether you're dropping in or making Forge part of your week. Every membership lets you mix apparatus and mat classes.
+
+## Membership *terms*
+- The 20% discount applies only to additional classes purchased directly by active members after their monthly credits are used.
+- Discounted classes are subject to availability, particularly for our five-person Reformer classes.
+- The discount cannot be combined with introductory offers, block-booking discounts or other promotions.
+- Additional classes are paid for at the time of booking and are not included in the monthly membership allocation.
+- Unused membership credits and add-on purchases follow separate, clearly stated expiry rules.
+===
+group: Start here
+label: Introduction · new clients only
+name: Forge 20
+price: £39
+featured: yes
+---
+Any 3 classes, valid for 20 days.
+===
+group: Start here
+label: Drop in
+name: Apparatus class
+price: £25
+---
+A single Reformer or Contrast class.
+===
+group: Start here
+label: Drop in
+name: Mat class
+price: £18
+---
+A single mat-based class.
+===
+group: Memberships
+label: Monthly ritual
+name: Forge 4
+price: £75
+per: / month
+---
+4 classes per month, any class type.
+- Mix Reformer, Contrast, Pilates, Restore, Reset and Barre.
+- 20% off additional classes after using all four credits*
+- Access to the full eligible timetable.
+
+*For someone who wants one consistent movement session each week.*
+===
+group: Memberships
+label: Core membership
+name: Forge 8
+price: £139
+per: / month
+featured: yes
+---
+8 classes per month, any class type.
+- Freedom to mix apparatus and mat sessions.
+- 20% off additional classes after using all eight credits*
+- Advance booking privileges.
+
+*For people who want movement to become part of their lifestyle, attending roughly twice a week.*
+===
+group: Memberships
+label: Premium tier
+name: Forge Unlimited
+price: £249
+per: / month
+---
+Unlimited eligible group classes.
+- Full access to apparatus and mat-based classes.
+- Priority booking.
+- Fair-use booking and cancellation policy.
+- Member community events or occasional member perks.
+
+*For people who want to make Forge a central part of their weekly routine.*
+===
+group: Class packs
+label: Mat classes
+name: 5 class pack
+price: £85
+---
+Valid for 3 months.
+===
+group: Class packs
+label: Mat classes
+name: 10 class pack
+price: £160
+---
+Valid for 4 months.
+===
+group: Class packs
+label: Apparatus classes
+name: 5 class pack
+price: £115
+---
+Valid for 3 months.
+===
+group: Class packs
+label: Apparatus classes
+name: 10 class pack
+price: £220
+---
+Valid for 4 months.
+===
+group: CFD & Optilift members
+label: Add-on · any class
+name: Forge 4 add-on
+price: £60
+per: / month
+---
+4 classes per month, any class type.
+- Mix Reformer, Contrast, Pilates, Restore, Reset and Barre.
+- 20% off additional classes after using all four credits*
+- Access to the full eligible timetable.
+===
+group: CFD & Optilift members
+label: Add-on · mat only
+name: Mat add-on
+price: £45
+per: / month
+---
+4 mat classes per month.
+- 20% off additional classes after using all four credits*
+- Access to the full eligible timetable (mat only).

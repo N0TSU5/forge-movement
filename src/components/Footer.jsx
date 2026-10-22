@@ -35,6 +35,7 @@ export default function Footer() {
           <ul className="site-footer__list">
             <li><Link to="/classes">Classes</Link></li>
             <li><Link to="/schedule">Class Schedule</Link></li>
+            <li><Link to="/pricing">Pricing</Link></li>
             <li><Link to="/first-timer">First Timer</Link></li>
             <li><Link to="/contact#careers">Careers</Link></li>
             <li><Link to="/contact#faqs">FAQs</Link></li>
