@@ -7,6 +7,7 @@
 #   price:    e.g. £139
 #   per:      e.g. / month (optional)
 #   featured: yes  -> highlighted card (optional)
+#   link:     Momence buy link, shows a button on the card (optional)
 # Card text: paragraphs and "- " bullet points.
 heading: **Pricing** & *memberships*
 button: Book a class
@@ -23,6 +24,7 @@ Simple options, whether you're dropping in or making Forge part of your week. Ev
 group: Start here
 label: Introduction · new clients only
 name: Forge 20
+link: https://momence.com/Forge-Movement/membership/Forge-20/951278
 price: £39
 featured: yes
 ---
@@ -58,6 +60,7 @@ per: / month
 group: Memberships
 label: Core membership
 name: Forge 8
+link: https://momence.com/Forge-Movement/membership/Forge-8/958906
 price: £139
 per: / month
 featured: yes
@@ -72,6 +75,7 @@ featured: yes
 group: Memberships
 label: Premium tier
 name: Forge Unlimited
+link: https://momence.com/Forge-Movement/membership/Forge-Unlimited/951315
 price: £249
 per: / month
 ---
@@ -83,9 +87,17 @@ Unlimited eligible group classes.
 
 *For people who want to make Forge a central part of their weekly routine.*
 ===
+group: Memberships
+label: Founders · first 20 members only
+name: Forge Founders
+link: https://momence.com/Forge-Movement/membership/Forge-Founders/961710
+---
+A founding membership for our first 20 members.
+===
 group: Class packs
 label: Mat classes
 name: 5 class pack
+link: https://momence.com/Forge-Movement/membership/5-Mat-Classes-Package/960159
 price: £85
 ---
 Valid for 3 months.
@@ -93,6 +105,7 @@ Valid for 3 months.
 group: Class packs
 label: Mat classes
 name: 10 class pack
+link: https://momence.com/Forge-Movement/membership/10-Mat-Classes-Package/958944
 price: £160
 ---
 Valid for 4 months.
@@ -100,6 +113,7 @@ Valid for 4 months.
 group: Class packs
 label: Apparatus classes
 name: 5 class pack
+link: https://momence.com/Forge-Movement/membership/5-Apparatus-Classes-Package/960192
 price: £115
 ---
 Valid for 3 months.
@@ -107,6 +121,7 @@ Valid for 3 months.
 group: Class packs
 label: Apparatus classes
 name: 10 class pack
+link: https://momence.com/Forge-Movement/membership/10-Apparatus-Classes-Package/960158
 price: £220
 ---
 Valid for 4 months.

@@ -36,13 +36,18 @@ export default function Pricing() {
                 >
                   {c.meta.label && <p className="price-card__label">{c.meta.label}</p>}
                   <h3 className="caps-title">{c.meta.name}</h3>
-                  <p className="price-card__price">
-                    {c.meta.price}
-                    {c.meta.per && <span> {c.meta.per}</span>}
-                  </p>
+                  {c.meta.price && (
+                    <p className="price-card__price">
+                      {c.meta.price}
+                      {c.meta.per && <span> {c.meta.per}</span>}
+                    </p>
+                  )}
                   <div className="price-card__body">
                     {c.sections.map((s, j) => <Blocks key={j} blocks={s.blocks} />)}
                   </div>
+                  {c.meta.link && (
+                    <Button to={c.meta.link} variant="solid" className="price-card__cta">Buy now</Button>
+                  )}
                 </article>
               ))}
             </div>

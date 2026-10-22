@@ -1009,3 +1009,12 @@
   border-radius: var(--radius);
   background: var(--white);
 }
+
+.price-card__cta {
+  margin-top: auto;
+  align-self: flex-start;
+}
+
+.price-card__body {
+  margin-bottom: 24px;
+}
