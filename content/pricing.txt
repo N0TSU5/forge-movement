@@ -4,7 +4,7 @@
 #   group:    which section the card appears in (cards with the same group sit together, in file order)
 #   label:    small line above the name (optional)
 #   name:     card title
-#   price:    e.g. £139
+#   price:    e.g. £170
 #   per:      e.g. / month (optional)
 #   featured: yes  -> highlighted card (optional)
 #   link:     Momence buy link, shows a button on the card (optional)
@@ -45,23 +45,10 @@ price: £18
 A single mat-based class.
 ===
 group: Memberships
-label: Monthly ritual
-name: Forge 4
-price: £75
-per: / month
----
-4 classes per month, any class type.
-- Mix Reformer, Contrast, Pilates, Restore, Reset and Barre.
-- 20% off additional classes after using all four credits*
-- Access to the full eligible timetable.
-
-*For someone who wants one consistent movement session each week.*
-===
-group: Memberships
 label: Core membership
 name: Forge 8
 link: https://momence.com/Forge-Movement/membership/Forge-8/958906
-price: £139
+price: £170
 per: / month
 featured: yes
 ---
@@ -76,7 +63,7 @@ group: Memberships
 label: Premium tier
 name: Forge Unlimited
 link: https://momence.com/Forge-Movement/membership/Forge-Unlimited/951315
-price: £249
+price: £290
 per: / month
 ---
 Unlimited eligible group classes.
@@ -91,6 +78,7 @@ group: Memberships
 label: Founders · first 20 members only
 name: Forge Founders
 link: https://momence.com/Forge-Movement/membership/Forge-Founders/961710
+price: £200
 ---
 A founding membership for our first 20 members.
 ===
