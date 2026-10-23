@@ -46,13 +46,11 @@ category: Bookings
 q: What is your cancellation policy?
 ---
 Cancel at least 12 hours before your class to receive your credit back. Late cancellations and no-shows will result in the loss of that credit.
-
-New clients can purchase an Intro Offer of £39 for 3 classes, to be used within 20 days of their first class. This gives you enough time and opportunity to try different classes and instructors on our timetable.
 ===
 category: Bookings
 q: Do you offer a trial class or intro offer?
 ---
-[Studio to confirm intro offer details.]
+New clients can purchase an Intro Offer of £39 for 3 classes, to be used within 20 days of their first class. This gives you enough time and opportunity to try different classes and instructors on our timetable.
 ===
 category: Prepare for your class
 q: What should I wear?
