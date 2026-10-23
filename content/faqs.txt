@@ -25,7 +25,7 @@ If you're new to Pilates, Forge Pilates (mat) is a great foundation. Forge Refor
 category: Classes
 q: How big are the classes?
 ---
-Reformer classes are kept to a maximum of five people, so your instructor can give you real attention. [Studio to confirm mat and recovery class sizes.]
+Reformer classes are kept to a maximum of five people, so your instructor can give you real attention. Capacity for mat and barre classes is shown on the booking site, as each class uses a different studio layout. Please check the Momence app.
 ===
 category: Classes
 q: Do I need prior experience?
@@ -35,7 +35,7 @@ Not at all. Every class is suitable for beginners, and exercises are layered pro
 category: Classes
 q: What is the infrared studio?
 ---
-Forge Reset takes place in our infrared-heated studio. The gentle warmth helps the body soften and release during long, mindful holds. Bring water and light clothing.
+Our infrared heated studio uses ceiling-mounted panels to emit invisible light waves that warm your body directly instead of blowing hot air into the room. This creates a deeply therapeutic environment specifically optimized for flexibility, muscle recovery, and mindful movement during Pilates and yoga practices. Bring water and light clothing.
 ===
 category: Bookings
 q: How do I book a class?
@@ -45,7 +45,9 @@ Head to our Class Schedule page and book directly through Momence.
 category: Bookings
 q: What is your cancellation policy?
 ---
-[Studio to confirm: cancellation window, e.g. "Cancel at least 12 hours before class to receive your credit back."]
+Cancel at least 12 hours before your class to receive your credit back. Late cancellations and no-shows will result in the loss of that credit.
+
+New clients can purchase an Intro Offer of £39 for 3 classes, to be used within 20 days of their first class. This gives you enough time and opportunity to try different classes and instructors on our timetable.
 ===
 category: Bookings
 q: Do you offer a trial class or intro offer?
@@ -60,7 +62,7 @@ Comfortable, fitted clothing you can move and stretch in. Loose tops can catch o
 category: Prepare for your class
 q: Do I need grip socks?
 ---
-Grip socks are required for Forge Reformer and Forge Contrast for hygiene reasons, and non-slip gloves are also required for Forge Contrast. [Studio to confirm whether grip socks are available to buy at the studio.]
+Grip socks are required for Forge Reformer and Forge Contrast for hygiene reasons, and non-slip gloves are also required for Forge Contrast. Grip socks and gloves are available to purchase at our studio. Just ask your instructor.
 ===
 category: Prepare for your class
 q: How early should I arrive?
@@ -70,4 +72,4 @@ Please arrive around 10 minutes before your first class so you can settle in and
 category: Prepare for your class
 q: Are there showers or changing facilities?
 ---
-[Studio to confirm changing / shower facilities.]
+There are female and male changing rooms on the gym floor. New clients will be given a short tour of the facility on their first day with us.
