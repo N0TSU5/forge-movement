@@ -1,0 +1,11 @@
+order: 4
+name: Hadiya
+role: Mat Pilates Instructor
+image: /images/instructors/hadiya.jpg
+---
+Hadiya first discovered Pilates at a classical Pilates studio and quickly fell in love with the method. Working a desk-based job, she found it eased the stiffness of sitting all day and helped her feel more connected to her body. That experience inspired her to qualify as a mat instructor and share her love of Pilates with others.
+
+She loves how mat Pilates combines mindful movement with a real challenge, encouraging you to slow down, move with intention and discover what your body is capable of. Hadiya's classes are welcoming and supportive, with a focus on helping women feel comfortable on the mat, whatever their experience or starting point.
+
+## Experience
+- Level 3 Mat Pilates qualification
