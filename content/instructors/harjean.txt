@@ -1,0 +1,8 @@
+order: 6
+name: Harjean
+role: Yoga Instructor
+image: /images/instructors/harjean.jpg
+---
+Since discovering yoga in 2010, Harjean has been passionate about its powerful physical practice and its grounding, calming effects. Over the years, Harjean has had the privilege of learning from renowned teachers in India and sharing her knowledge with students since 2017. Alongside teaching in yoga studios around the West Midlands, she has also worked with Premier League football teams, helping athletes improve performance and recovery. Harjean also loves teaching children’s yoga, bringing the joy of movement and mindfulness to young minds.
+
+Harjean's classes are strong, with a focus on both strength and flexibility, always guided by the breath and clear alignment. Expect to be challenged, supported, and to leave feeling both energised and centred.

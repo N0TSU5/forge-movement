@@ -1,0 +1,11 @@
+order: 7
+name: Myra Jax
+role: Yoga Instructor
+image: /images/instructors/myra.jpg
+---
+A 200hr-certified yoga teacher and a competing weightlifter, Myra believes that it’s never too late for your body to show all the miraculous things it is capable of. She loves working with people who are new to yoga and experienced practitioners alike, and is a firm believer that your yoga practice will meet you exactly where you are. She teaches Yin Yoga, Power Yoga/Vinyasa and Pranayama classes and has Hatha, Ashtanga, Kundalini and Restorative Yoga in her personal practice.
+
+In Yin Yoga classes, Myra focuses on improving flexibility through longer holds designed to target the connective tissues, muscles, joints and fascia, whilst also creating an environment that promotes switching the nervous system to rest and recovery mode. Becoming completely still in deep stretches for long periods of time is not easy – Myra will teach practitioners how to use props to promote relaxation and guide them through the long holds to make sure they are sustainable and performed safely.
+
+## Experience
+- 200hr yoga teacher certification
