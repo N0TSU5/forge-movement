@@ -20,6 +20,7 @@ Simple options, whether you're dropping in or making Forge part of your week. Ev
 - The discount cannot be combined with introductory offers, block-booking discounts or other promotions.
 - Additional classes are paid for at the time of booking and are not included in the monthly membership allocation.
 - Unused membership credits and add-on purchases follow separate, clearly stated expiry rules.
+- 25% discount for full-time students, carers and employees of registered charity organisations. Please bring ID or a DWP letter on your first visit.
 ===
 group: Start here
 label: Introduction · new clients only
