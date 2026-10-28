@@ -1,0 +1,8 @@
+order: 5
+name: Tia
+role: Reformer Instructor
+image: /images/instructors/tia.jpg
+---
+Tia has always cared for the body from the outside. At Earthly Way, Tia makes handmade creams and soaps that nourish and protect the skin. Then came Pilates, which works from the inside out, building strength, balance and calm from within. It felt like the other half of the picture.
+
+Today Tia is a Reformer Pilates instructor, bringing both worlds into everyday life. Tia's classes are about helping you move well, feel strong and feel at home in your body, inside and out.
