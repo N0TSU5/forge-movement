@@ -87,7 +87,7 @@ group: Class packs
 label: Mat classes
 name: 5 class pack
 link: https://momence.com/Forge-Movement/membership/5-Mat-Classes-Package/960159
-price: £85
+price: £80
 ---
 Valid for 3 months.
 ===
@@ -95,7 +95,7 @@ group: Class packs
 label: Mat classes
 name: 10 class pack
 link: https://momence.com/Forge-Movement/membership/10-Mat-Classes-Package/958944
-price: £160
+price: £150
 ---
 Valid for 4 months.
 ===
@@ -103,7 +103,7 @@ group: Class packs
 label: Apparatus classes
 name: 5 class pack
 link: https://momence.com/Forge-Movement/membership/5-Apparatus-Classes-Package/960192
-price: £115
+price: £110
 ---
 Valid for 3 months.
 ===
@@ -111,7 +111,7 @@ group: Class packs
 label: Apparatus classes
 name: 10 class pack
 link: https://momence.com/Forge-Movement/membership/10-Apparatus-Classes-Package/960158
-price: £220
+price: £210
 ---
 Valid for 4 months.
 ===
