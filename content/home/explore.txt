@@ -4,7 +4,7 @@ button: Our instructors
 link: /instructors
 image: /images/home/explore-instructors.jpg
 focus: 50% 62%
-alt: The Reformer studio
+alt: Reformers lined up on the parquet floor of the warmly lit studio
 ===
 button: Curated classes
 link: /classes
@@ -15,5 +15,5 @@ alt: A Mat Pilates class stretching back on their mats
 button: Our story
 link: /our-story
 image: /images/home/explore-story.jpg
-focus: 50% 55%
-alt: The studio reception with plants
+focus: 50% 38%
+alt: Cork blocks, red Pilates balls and woven baskets on the studio prop wall

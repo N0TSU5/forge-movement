@@ -3,19 +3,13 @@ heading: Inside the *studio*
 A first-floor space above CrossFit Digbeth: warm light, Reformers, and room to breathe.
 ===
 image: /images/gallery/01.jpg
-alt: Mats laid out between the ball racks in the studio
+alt: A floor lamp and framed art beside the studio curtains
 ===
 image: /images/gallery/02.jpg
 alt: An instructor mid-movement on the mat
 ===
 image: /images/gallery/03.jpg
 alt: A Mat Pilates class folding forward onto cork blocks beside the barre
-===
-image: /images/gallery/04.jpg
-alt: The studio entrance corridor
-===
-image: /images/gallery/05.jpg
-alt: A mat with a Pilates ball in the warmly lit studio
 ===
 image: /images/gallery/06.jpg
 alt: Cork blocks and red Pilates balls on the studio prop wall
