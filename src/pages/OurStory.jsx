@@ -20,7 +20,7 @@ export default function OurStory() {
           {m.lede && <p className="lede lede--left">{m.lede}</p>}
           <div className="prose prose--columns"><Body sections={intro(story)} /></div>
           <div className="photo-row">
-            {[1, 2, 3].map((n) => <Photo key={n} src={m[`image${n}`]} alt={m[`alt${n}`]} ratio="1.2 / 1" />)}
+            {[1, 2, 3].map((n) => <Photo key={n} src={m[`image${n}`]} alt={m[`alt${n}`]} ratio="3 / 4" />)}
           </div>
         </div>
       </section>
