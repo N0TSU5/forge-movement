@@ -4,6 +4,7 @@ import useTitle from '../lib/useTitle'
 import Rich from '../components/Rich'
 import Body from '../components/Body'
 import Photo from '../components/Photo'
+import PhotoSlider from '../components/PhotoSlider'
 import Button from '../components/Button'
 import { LogoLockup } from '../components/Logo'
 
@@ -42,7 +43,17 @@ export default function Home() {
         <div className="container features">
           {features.map((f) => (
             <article key={f.meta.title} className="feature">
-              <Photo src={f.meta.image} alt={f.meta.alt} ratio="1 / 1.05" focus={f.meta.focus} />
+              {f.meta.image2 ? (
+                <PhotoSlider
+                  ratio="1 / 1.05"
+                  slides={[
+                    { src: f.meta.image, alt: f.meta.alt, focus: f.meta.focus },
+                    { src: f.meta.image2, alt: f.meta.alt2, focus: f.meta.focus2 },
+                  ]}
+                />
+              ) : (
+                <Photo src={f.meta.image} alt={f.meta.alt} ratio="1 / 1.05" focus={f.meta.focus} />
+              )}
               <h3 className="feature__title">{f.meta.title}</h3>
               <Body sections={f.sections} />
             </article>

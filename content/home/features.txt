@@ -2,6 +2,9 @@ title: Welcoming & Certified Instructors
 image: /images/home/feature-instructors.jpg
 focus: 50% 35%
 alt: Four smiling instructors posing together in the studio
+image2: /images/home/feature-instructors-2.jpg
+focus2: 50% 55%
+alt2: Four instructors in black laughing together against the studio's clay wall
 ---
 Our instructors are friendly, passionate, and certified in teaching Pilates, Barre, and Yoga that will help you enjoy your fitness journey.
 ===

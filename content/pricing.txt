@@ -129,7 +129,7 @@ per: / month
 group: CFD & Optilift members
 label: Add-on · mat only
 name: Mat add-on
-price: £45
+price: £40
 per: / month
 ---
 4 mat classes per month.
