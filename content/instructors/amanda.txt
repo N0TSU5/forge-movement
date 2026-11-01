@@ -1,0 +1,5 @@
+order: 10
+name: Amanda
+role: Barre Instructor
+image: /images/instructors/amanda.jpg
+---

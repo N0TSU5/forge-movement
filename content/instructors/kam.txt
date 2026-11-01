@@ -1,0 +1,5 @@
+order: 9
+name: Kam
+role: Reset Teacher
+image: /images/instructors/kam.jpg
+---
