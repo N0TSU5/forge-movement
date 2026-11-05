@@ -1,5 +1,10 @@
 order: 9
 name: Kam
-role: Reset Teacher
+role: Reset Instructor
 image: /images/instructors/kam.jpg
 ---
+A yoga practitioner for over 39 years, I discovered the practice at the age of 11. Along the way I have travelled far and wide, worked as a doctor for 26 years, been a carer for a family member and, when time allowed, indulged my interest in creative pursuits.
+
+I have found that yoga has been an amazing adjunct to life, bringing strength and flexibility to the mind and body at all times. I truly believe that there is no particular body type that is best suited to yoga. It is truly a practice for every body type of every ability.
+
+I am passionate about sharing the practice so that as many people as possible experience how it can walk beside you and nourish you through all stages of your life.

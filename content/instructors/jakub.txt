@@ -1,6 +1,6 @@
 order: 8
 name: Jakub
-role: Yoga Instructor
+role: Restore/Pilates Instructor
 image: /images/instructors/jakub.jpg
 ---
 Jakub first discovered yoga under the tropical skies of Thailand, and what started as curiosity quickly became a lifeline through depression, grief, and addiction. On the mat, he found strength, stillness, and a spark of joy.

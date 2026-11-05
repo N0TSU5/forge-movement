@@ -57,6 +57,7 @@ featured: yes
 - Freedom to mix apparatus and mat sessions.
 - 20% off additional classes after using all eight credits*
 - Advance booking privileges.
+- Free use of Open Gym sessions at CrossFit Digbeth (terms apply).
 
 *For people who want movement to become part of their lifestyle, attending roughly twice a week.*
 ===
@@ -72,6 +73,7 @@ Unlimited eligible group classes.
 - Priority booking.
 - Fair-use booking and cancellation policy.
 - Member community events or occasional member perks.
+- Free use of Open Gym sessions at CrossFit Digbeth (terms apply).
 
 *For people who want to make Forge a central part of their weekly routine.*
 ===
@@ -82,6 +84,7 @@ link: https://momence.com/Forge-Movement/membership/Forge-Founders/961710
 price: £200
 ---
 A founding membership for our first 20 members.
+- Free use of Open Gym sessions at CrossFit Digbeth (terms apply).
 ===
 group: Class packs
 label: Mat classes
