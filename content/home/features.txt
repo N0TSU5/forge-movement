@@ -17,8 +17,8 @@ Our studio is equipped with Reformers and a variety of Pilates props and tools, 
 ===
 title: Recovery Sessions
 image: /images/home/feature-recovery.jpg
-focus: 50% 45%
-alt: A woman stretching at the barre beside mats laid out on the parquet floor
+focus: 50% 60%
+alt: Clients lying still on Reformers in the dimly lit studio during a recovery session
 ---
 We believe that recovery is a crucial step in movement. Join *Forge Reset* to slow down and restore.
 ===
