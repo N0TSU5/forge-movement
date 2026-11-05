@@ -1,6 +1,6 @@
 order: 2
 name: Lamia
-role: Assistant Trainer
+role: Restore/Pilates Instructor
 image: /images/instructors/lamia.jpg
 ---
 Lamia started doing Pilates without knowing it was Pilates.
