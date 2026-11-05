@@ -5,7 +5,7 @@ type: Reformer + Mat
 tagline: Reformer and mat in one session. Feel the difference.
 level: All levels
 image: /images/classes/contrast.jpg
-alt: An instructor working with a Pilates ring and ball
+alt: An instructor guiding a class through single-leg balances beside the Reformers
 ---
 A unique Pilates experience combining Reformer and mat work within the same session, allowing you to explore how the body moves, feels and responds to each.
 
